@@ -77,6 +77,7 @@
             <a-select-option value="2">选项二</a-select-option>
           </a-select>
         </a-form-item>
+        test
         <!--<a-form-item>
           <a-checkbox :checked="isCheck" @change="handleChange">是否必填</a-checkbox>
         </a-form-item>-->
